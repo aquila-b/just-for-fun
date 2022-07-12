@@ -3,7 +3,7 @@ Hey, take a look at the game system I created in Dart! The game is: Rock, paper 
 This code is also subtitled in portuguese.
 
 
-void main() { // função principal/main function
+void main() {    // MAIN FUNCTION || FUNÇÃO PRINCIPAL
  
   // ROCK, PAPER AND SCISSORS IN CODE! || PEDRA , PAPEL E TESOURA NO CÓDIGO!!
   
