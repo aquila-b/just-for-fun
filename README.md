@@ -1,6 +1,8 @@
 # just-for-fun
-Hey, take a look at the game system I created in Dart! The game is: Rock, paper and scissors! I'm still a beginner in this language :) 
+Hey, take a look at the game system I created in Dart! The game is: Rock, paper and scissors! I'm still a beginner in this language :)
+By the way, I would also like to apologize about the language syntax here, GitHub renderization made it like that.
 This code is also subtitled in portuguese.
+
 
 
 void main() {    // MAIN FUNCTION || FUNÇÃO PRINCIPAL
